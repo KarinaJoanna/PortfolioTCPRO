@@ -239,9 +239,8 @@ h1 {
 
 .testimonio-texto {
   max-width: 70%;
-  font-size: 20px;
+  font-size: 15px;
   text-align: center;
-  font-family: 'Cormorant Garamond', serif
 }
 
 .testimonio-info {
@@ -254,11 +253,12 @@ h1 {
 }
 
 .testimonio-footer .cliente {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 .testimonio-info .cargo {
-  font-size: 0.9rem;
+  margin-top: 15px;
+  font-size: 0.8rem;
   color: #656060;
 }
 

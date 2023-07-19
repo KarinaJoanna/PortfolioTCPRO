@@ -27,7 +27,7 @@ Hey there! This project was created for the Tecnolochicas PRO bootcamp, in this 
 
 ![Contact](imagenes/screenshot6.png)
 
-## Tecnologías
+## Technologies
 
 This page was created using:
 
